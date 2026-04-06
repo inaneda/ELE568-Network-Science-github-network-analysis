@@ -1,0 +1,14 @@
+# dataset - SNAP'ten indirilmeli
+data/
+
+# gephi dosyaları
+*.gexf
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# conda
+*.conda
+*.egg-info/
